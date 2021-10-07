@@ -2,6 +2,7 @@
 
 Uygulama Açıklaması
 
+
 ## Uygulama Görselleri
 <p>
 <a href="https://github.com/Sahsanem/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/g%C3%B6rseller/SuSat%C4%B1sOtomasyonu-page-2.jpg" target="_blank">
