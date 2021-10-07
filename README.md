@@ -2,6 +2,13 @@
 
 Uygulama Açıklaması
 
+## Kullanılan Diller
+
+| Dil/Yetenek | % |
+| ------------- |:-------------:|
+| Java | 90 |
+| JFrame | 80 |
+| SQLite | 70 |
 
 ## Uygulama Görselleri
 <p>
