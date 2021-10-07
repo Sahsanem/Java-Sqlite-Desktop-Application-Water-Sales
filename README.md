@@ -1,7 +1,7 @@
 # Java Sqlite Desktop Application WaterSales
 
 ## Uygulama Açıklaması
-
+Su satış uygulaması, su siparişlerinin ve satışlarının takip edilmesini sağlar.
 ## Kullanılan Diller
 
  Dil / Yetenek | :arrow_right: | % |
