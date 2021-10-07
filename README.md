@@ -1,6 +1,6 @@
 # Java Sqlite Desktop Application WaterSales
 
-Uygulama Açıklaması
+## Uygulama Açıklaması
 
 ## Kullanılan Diller
 
